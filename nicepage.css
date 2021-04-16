@@ -33803,9 +33803,10 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-text-1 {
-  font-size: 1.625rem;
   width: 361px;
   animation-duration: 1500ms;
+  font-size: 1.625rem;
+  background-image: none;
   text-transform: none;
   margin: 26px auto 0;
 }
@@ -33864,7 +33865,6 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-header .u-text-1 {
-    font-size: 1.5rem;
     margin-right: 74px;
     margin-left: 12px;
   }
